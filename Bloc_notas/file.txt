@@ -1,7 +1,0 @@
-Hola Mundo
-Mi primer archivo en python
-Venezuela
-Alemania
-Croacia
-Venezuela Alemania Croacia
- Nueva sentencia
